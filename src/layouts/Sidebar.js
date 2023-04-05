@@ -24,14 +24,10 @@ const navigation = [
     href: "/dashboard/cards",
     icon: "bi bi-card-text",
   },
-  {
-    title: "Projects form",
-    href: "/dashboard/forms",
-    icon: "bi bi-textarea-resize",
-  },
+  
   
   {
-    title: "Students List",
+    title: "Add new student",
     href: "/dashboard/table",
     icon: "bi bi-layout-split",
   },
@@ -44,6 +40,11 @@ const navigation = [
   {
     title: "Messages",
     href: "/dashboard/badges",
+    icon: "bi bi-patch-check",
+  },
+  {
+    title: "Subscribes",
+    href: "/dashboard/Subscribe",
     icon: "bi bi-patch-check",
   },
 ];
